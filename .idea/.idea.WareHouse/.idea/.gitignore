@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.WareHouse.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../:\Сессия 15.03.2021 Самойлов\WareHouse\.idea\.idea.WareHouse\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
